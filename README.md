@@ -68,7 +68,7 @@ nano accounts.json
 ## Run
 
 ```bash
-python bot.py
+python main.py
 ```
 
 ## FOR AUTO REFER
