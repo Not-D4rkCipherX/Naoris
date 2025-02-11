@@ -22,19 +22,18 @@
 - Make sure you have Python3.9 or higher installed and pip.
 
 ## Instalation
-
-1. **Clone The Repositories:**
-   ```bash
+```bash
    git clone https://github.com/Not-D4rkCipherX/Naoris.git
    ```
    ```bash
    cd Naoris
    ```
-
-2. **Install Requirements:**
    ```bash
    pip install -r requirements.txt
    ```
+```bash
+nano accounts.json
+```
 
 ## Configuration
 
