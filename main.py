@@ -35,7 +35,7 @@ class NaorisProtocol:
     def welcome(self):
         print(
             f"""
-        {Fore.YELLOW + Style.BRIGHT}Tool được phát triển bởi nhóm tele Airdrop Hunter Siêu Tốc (https://t.me/airdrophuntersieutoc)
+        {Fore.WHITE + Style.BRIGHT} AUTO Node BOT NAORIS
             """
         )
 
