@@ -385,7 +385,7 @@ class NaorisProtocol:
             while True:
                 tasks = []
                 for account in accounts:
-                    address = account['Address'].lower()
+                    address = account['walletAddress'].lower()
                     device_hash = int(account['deviceHash'])
 
                     if address and device_hash:
