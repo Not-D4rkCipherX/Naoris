@@ -48,11 +48,11 @@ nano accounts.json
   ```bash
   [
       {
-          "Address": "Your evm address 1",
+          "wallletAddress": "Your evm address 1",
           "deviceHash": "Your device hash 1"
       },
       {
-          "Address": "Your evm address 2",
+          "walletAddress": "Your evm address 2",
           "deviceHash": "Your device hash 2"
       }
   ]
