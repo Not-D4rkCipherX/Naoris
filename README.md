@@ -79,3 +79,7 @@ npm i
 node autoref.js
 ```
 Created accounts will be added on accounts.json and accounts.txt file
+###PROXY FORMAT :
+ip:port # Default Protcol HTTP.
+protocol://ip:port
+protocol://user:pass@ip:port
